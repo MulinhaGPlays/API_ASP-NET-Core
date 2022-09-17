@@ -1,0 +1,2 @@
+dotnet new webapi -o Ref_OpenBadgeBr
+dotnet add package Microsoft.EntityFrameworkCore.InMemory
